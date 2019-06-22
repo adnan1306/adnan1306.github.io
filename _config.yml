@@ -54,7 +54,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : 
+  username               : adnan1306
 facebook:
   username               : 
   app_id                 :
@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Mohd Adnan"
-  avatar           : "lantaoyu.jpg"
+  avatar           : "adnan.jpg"
   bio              : "Undergraduate Student, IIT Guwahati"
   location         : "Guwahati"
   employer         : 
@@ -103,7 +103,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
