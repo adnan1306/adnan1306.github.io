@@ -3,22 +3,22 @@ main:
   - title: "CV/Bio"
     url: /cv/
 
-  - title: "Publications"
+  #- title: "Publications"
     url: /publications/
 
-  # - title: "Awards & Honors"
+   - title: "Awards & Honors"
   #   url: /awards/
 
   - title: "Talks"
     url: /talks/    
 
-  # - title: "Teaching"
-  #   url: /teaching/    
+   - title: "Teaching"
+     url: /teaching/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Blogs"
+  #- title: "Blogs"
     url: /year-archive/
     
   - title: "Contact"
