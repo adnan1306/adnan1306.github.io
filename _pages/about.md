@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://lantaoyu.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://adnan1306.github.io/files/adnan.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 * I am an incoming MASc student at [University of Waterloo](https://www.uwaterloo.ca/). [[Curriculum Vitae](http://adnan1306.github.io/files/Mohammed_Adnan_CV.pdf)].
