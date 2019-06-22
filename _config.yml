@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lantao Yu"
+  name             : "Mohd Adnan"
   avatar           : "lantaoyu.jpg"
-  bio              : "Ph.D. student, Computer Science Department, Stanford University"
-  location         : "Stanford, California"
+  bio              : "Undergraduate Student, IIT Guwahati"
+  location         : "Guwahati"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en"
-  email            : "lantaoyu@hotmail.com"
+  googlescholar    : ""
+  email            : "mohd.adnan1306@gmail.com"
   uri              : 
   bitbucket        :
   codepen          :
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "LantaoYu"
+  github           : "adnan1306"
   google_plus      :
   keybase          :
   instagram        : 
