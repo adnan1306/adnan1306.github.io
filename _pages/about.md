@@ -11,7 +11,7 @@ redirect_from:
 
 
 * I am an incoming MASc student at [University of Waterloo](https://www.uwaterloo.ca/). [[Curriculum Vitae](http://adnan1306.github.io/files/Mohammed_Adnan_CV.pdf)].
-* My research interests lie in Statistical Machine Learning, Probablistic Deep Learning and its application in Vision. I'm also interested in Generative Modelling, Bayesian Deep Learning and Probablitisic Graphical Models. My research is supported by [Vector Institute, Canada](https://vectorinstitute.ai/).
+* My research interests lie in Statistical Machine Learning, Probabilistic Deep Learning and its application in Vision. I'm also interested in Generative Modelling, Bayesian Deep Learning and Probabilistic Graphical Models. My research is supported by [Vector Institute, Canada](https://vectorinstitute.ai/).
 * I received my Bachelor’s Degree in Electronics & Electrical Engineering from [Indian Institute of Technology Guwahati](www.iitg.ac.in).
 
 
