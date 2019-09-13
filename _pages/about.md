@@ -17,7 +17,7 @@ redirect_from:
 
 
 # Recent News
-* Joined University of Waterloo for graduate studies
+* September, 2019 - Joined University of Waterloo for graduate studies
 * April 26, 2019. I have been awarded Vector Scholarship in AI by the [Vector Institute, Canada](https://vectorinstitute.ai/).
 * December 2018. I will be joining University of Waterloo for graduate studies in Fall 2019.
 * October 2017. I was awarded Shastri Indo Canadian Research Fellowship 2018.
