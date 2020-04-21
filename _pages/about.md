@@ -17,6 +17,7 @@ redirect_from:
 
 
 # Recent News
+* April, 2020 - My recent work "Representation Learning of Histopathology Images using Graph Neural Networks" got accepted to CVPR(W) 2020. 
 * September, 2019 - Joined University of Waterloo for graduate studies
 * April 26, 2019. I have been awarded Vector Scholarship in AI by the [Vector Institute, Canada](https://vectorinstitute.ai/).
 * December 2018. I will be joining University of Waterloo for graduate studies in Fall 2019.
