@@ -7,7 +7,7 @@ author_profile: true
 ## CVPR(W) 2020
 
 <b>[Representation Learning of Histopathology Images using Graph Neural
-Networks](https://arxiv.org/pdf/2004.07399)</b> <br>  <b> Mohammed Adnan</b>,Shivam Kalra, Graham Taylor, Hamid Tizhoosh 
+Networks](https://arxiv.org/pdf/2004.07399)</b> <br>  <b> Mohammed Adnan</b>,Shivam Kalra, Hamid Tizhoosh 
 
 ## Pre-Prints
 
