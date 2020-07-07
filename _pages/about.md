@@ -17,6 +17,7 @@ redirect_from:
 
 
 # Recent News
+* July, 2020 - Our paper 'Learning Permutation Invariant Represenations using Memomry Network' has been accpeted for publication at ECCV 2020.
 * April, 2020 - My recent work "Representation Learning of Histopathology Images using Graph Neural Networks" got accepted to CVPR(W) 2020. 
 * September, 2019 - Joined University of Waterloo for graduate studies
 * April 26, 2019. I have been awarded Vector Scholarship in AI by the [Vector Institute, Canada](https://vectorinstitute.ai/).
