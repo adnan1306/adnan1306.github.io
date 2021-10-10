@@ -18,7 +18,7 @@ redirect_from:
 
 # Recent News
 * October 2021 - Two papers submitted to NeurIPS workshop on 'Privacy in Machine Learning' and  'Self-Supervised Learning - Theory and Practice'.
-* September 2021 - Graduated from University of Waterloo
+* September 2021 - Graduated from the University of Waterloo.
 * June 2021 - Our paper 'Pay Attention with Focus: A Novel Learning Scheme for Classification of Whole Slide Images' got accept to MICCAI 2021
 * July, 2020 - Our paper 'Learning Permutation Invariant Representations using Memory Networks' has been accpeted for publication at ECCV 2020.
 * April, 2020 - My recent work "Representation Learning of Histopathology Images using Graph Neural Networks" got accepted to CVPR(W) 2020. 
