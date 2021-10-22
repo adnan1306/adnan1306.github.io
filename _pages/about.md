@@ -17,7 +17,8 @@ redirect_from:
 
 
 # Recent News
-* October 2021 - Two papers submitted to NeurIPS workshop on 'Privacy in Machine Learning' and  'Self-Supervised Learning - Theory and Practice'.
+* October 2021 - Submitted a paper on Differentially Private Federated Learning to Nature Scientific Reports. 
+* October 2021 - Submitted ongoing work on domain-agnostic SSL to NeurIPS workshop on 'Self-Supervised Learning - Theory and Practice'.
 * September 2021 - Graduated from the University of Waterloo.
 * June 2021 - Our paper 'Pay Attention with Focus: A Novel Learning Scheme for Classification of Whole Slide Images' got accept to MICCAI 2021
 * July, 2020 - Our paper 'Learning Permutation Invariant Representations using Memory Networks' has been accpeted for publication at ECCV 2020.
