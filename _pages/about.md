@@ -17,6 +17,7 @@ redirect_from:
 
 
 # Recent News
+* November, 2021 - Paper accepted at the NeurIPS workshop on 'Self-Supervised Learning - Theory and Practice'. 
 * October, 2021 - Reviewing for ICLR 2022. 
 * October, 2021 - Submitted a paper on Differentially Private Federated Learning to Nature Scientific Reports. 
 * October, 2021 - Submitted ongoing work on domain-agnostic SSL to NeurIPS workshop on 'Self-Supervised Learning - Theory and Practice'.
