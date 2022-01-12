@@ -10,13 +10,17 @@ redirect_from:
 
 
 
-* I am a graduate student at [University of Waterloo](https://www.uwaterloo.ca/). [[Curriculum Vitae](http://adnan1306.github.io/files/Mohammed_Adnan_CV.pdf)].
-* My research interests lie in Statistical Machine Learning, Probabilistic Deep Learning and its application in Vision. I'm also interested in Generative Modelling, Bayesian Deep Learning and Probabilistic Graphical Models. My research is supported by [Vector Institute, Canada](https://vectorinstitute.ai/).
-* I received my Bachelor’s Degree in Electronics & Electrical Engineering from [Indian Institute of Technology Guwahati](www.iitg.ac.in).
+* I am currently working at Vector Institute and University of Guelph with Dr. Graham Taylor.
+* My research goal is to develop machine learning (ML) algorithms that have the human-like ability to
+continuously learn (continual/lifelong learning) and generalize well using minimal or no labeled data (self-
+supervised learning) for applications in computer vision, in particular, medical imaging.
+* I received my Bachelor’s Degree in Electronics & Electrical Engineering from [Indian Institute of Technology Guwahati](www.iitg.ac.in) and MASc degree from the [University of Waterloo(www.uwaterloo.ca)].
 
 
 
 # Recent News
+* January, 2022 - Will be serving as Program Committe Member for UAI 2022.
+* December, 2022 - Paper accepted at the Trustworthy AI for Healthcare Workshop - AAAI 2022.
 * November, 2021 - Paper accepted at the NeurIPS workshop on 'Self-Supervised Learning - Theory and Practice'. 
 * October, 2021 - Reviewing for ICLR 2022. 
 * October, 2021 - Submitted a paper on Differentially Private Federated Learning to Nature Scientific Reports. 
