@@ -14,7 +14,7 @@ redirect_from:
 * My research goal is to develop machine learning (ML) algorithms that have the human-like ability to
 continuously learn (continual/lifelong learning) and generalize well using minimal or no labeled data (self-
 supervised learning) for applications in computer vision, in particular, medical imaging.
-* I received my Bachelor’s Degree in Electronics & Electrical Engineering from [Indian Institute of Technology Guwahati](www.iitg.ac.in) and MASc degree from the [University of Waterloo](www.uwaterloo.ca).
+* I received my Bachelor’s Degree in Electronics & Electrical Engineering from Indian Institute of Technology Guwahati and MASc degree from the University of Waterloo.
 
 
 
