@@ -19,6 +19,7 @@ supervised learning) for applications in computer vision, in particular, medical
 
 
 # Recent News
+* January, 2022 - Paper accepted to Nature Scientific Reports.
 * January, 2022 - Will be serving as Program Committe Member for UAI 2022.
 * December, 2022 - Paper accepted at the Trustworthy AI for Healthcare Workshop - AAAI 2022.
 * November, 2021 - Paper accepted at the NeurIPS workshop on 'Self-Supervised Learning - Theory and Practice'. 
