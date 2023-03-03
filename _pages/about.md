@@ -10,13 +10,16 @@ redirect_from:
 
 
 
-* I am currently working at Vector Institute and University of Guelph with Dr. Graham Taylor.
+* I am a PhD student at Vector Institute and University of Calgary, supervised by Dr. Yani Ioannou and Dr. Rahul Krishnan.
 * My research goal is to develop machine learning (ML) algorithms that have the human-like ability to
 continuously learn (continual/lifelong learning) and generalize well using minimal or no labeled data (self-
-supervised learning) for applications in computer vision, in particular, medical imaging.
+supervised learning) for applications in computer vision, in particular, medical imaging. I'm also interested in understanding learning in neural networks using Neural Tangent Kernels. 
 * I received my Bachelor’s Degree in Electronics & Electrical Engineering from Indian Institute of Technology Guwahati and MASc degree from the University of Waterloo.
 
 
+# Academic Services:
+* Reviewer: ICLR 2021, UAI 2022, NeurIPS 2022, CVPR 2023, ICCV 2023, UAI 2023
+* Co-host of Self-Supervised Learning reading group at Vector Insitute. Feel free to reach out if you're interested in joining the reading group.
 
 # Recent News
 * April, 2022 - Will be serving as reviewer for NeurIPS 2022.
