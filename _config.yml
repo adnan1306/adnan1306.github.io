@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mohammed Adnan"
 title_separator          : "-"
 name                     : &name "Adnan"
-description              : &description "MASc Student, University of Waterloo"
+description              : &description "PhD student, Vector Institute"
 url                      : https://adnan1306.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "adnan1306/adnan1306.github.io"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Mohd Adnan"
   avatar           : "adnan.jpg"
-  bio              : "Graduate Student, University of Waterloo"
+  bio              : "PhD student, Vector Institute"
   location         : "Waterloo, ON"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=g39sWmYAAAAJ&hl=en"
