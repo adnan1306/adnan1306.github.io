@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](http://adnan1306.github.io/files/Mohammed_academic_Resume_new.pdf)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](http://adnan1306.github.io/files/Mohammed Adnan_resume.pdf)
