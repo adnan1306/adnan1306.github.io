@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mohammed Adnan"
 title_separator          : "-"
 name                     : &name "Adnan"
-description              : &description "PhD student, Vector Institute"
+description              : &description "PhD student, University of Calgary/Vector Institute"
 url                      : https://adnan1306.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "adnan1306/adnan1306.github.io"
@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Mohammed Adnan"
-  avatar           : "adnan.jpg"
+  avatar           : "adnan_headshot.pnd"
   bio              : "PhD student, Vector Institute"
   location         : "Waterloo, ON"
   employer         : 
@@ -103,7 +103,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : _mohdadnan
+  twitter          : adnan_ahmad1306
   vine             :
   weibo            :
   xing             :
