@@ -18,7 +18,7 @@ I am a PhD student at the Vector Institute and the University of Calgary, superv
 * Student mentorship: Rohan Jain (MASc), Tejas Pote (2023 Summer Intern), Nahush Lele (2023 Summer Intern). 
 
 # (Research) Updates
-* May 2025 - Awarded [<b>Killiam Doctoral Fellowship</b>](<https://killamlaureates.ca/>).
+* May 2025 - Awarded prestigious [<b>Killiam Doctoral Fellowship</b>](<https://killamlaureates.ca/>) in recognition of research contribution.
 * May 2025 - Our paper on Sparse Training got accepted at <b>ICML 2025</b>. DM me if you have any questions or want to collaborate. See you in Vancouver! 
 * December 2024 - Our workshop proposal got accepted at <b>ICLR 2025</b>. I will be co-organizing a workshop on [Sparsity in LLMs](https://sparsellms.org/), see you in Singapore!
 * October 2024 - Received research funding from [<b>Digital Research Alliance of Canada (DRAC)</b>](https://www.alliancecan.ca/en) to investigate effect of LLM compression on model bias.
