@@ -10,7 +10,8 @@ redirect_from:
 
 
 
-* I am a PhD student at Vector Institute and University of Calgary, supervised by Dr. Yani Ioannou and Dr. Rahul Krishnan.
+* I am a PhD student at the Vector Institute and the University of Calgary, supervised by Dr. Yani Ioannou and Dr. Rahul Krishnan.
+* My research goal is to make large foundational models, such as LLMS, smaller and efficient. Currently, my work focuses on developing training  methods for Sparse Neural Networks 
 * My research goal is to develop machine learning (ML) algorithms that have the human-like ability to
 continuously learn (continual/lifelong learning) and generalize well using minimal or no labeled data (self-
 supervised learning) for applications in computer vision, in particular, medical imaging. I'm also interested in understanding learning in neural networks using Neural Tangent Kernels. 
@@ -22,13 +23,14 @@ supervised learning) for applications in computer vision, in particular, medical
 * Co-host of Self-Supervised Learning reading group at Vector Insitute. Feel free to reach out if you're interested in joining the reading group.
 
 # Recent News
-* April, 2022 - Will be serving as reviewer for NeurIPS 2022.
+* December, 2024 - Our workshop proposal got accepted at ICLR 2025. I will be co-organizing a workshop on Sparsity in LLMs. See you in Singapore! 
+* September, 2024 - Among 10 students to be awarded Borealis AI Global Fellowship. 
+* April, 2024 - Awarded prestigious NSERC Doctoral Fellowship from the Government of Canada. 
+* January, 2023 - Started PhD. 
+* September, 2022 - Started Research Internship at Borealis AI.
 * January, 2022 - Paper accepted to Nature Scientific Reports.
-* January, 2022 - Will be serving as reviewer for UAI 2022.
 * December, 2022 - Paper accepted at the Trustworthy AI for Healthcare Workshop - AAAI 2022.
 * November, 2021 - Paper accepted at the NeurIPS workshop on 'Self-Supervised Learning - Theory and Practice'. 
-* October, 2021 - Reviewing for ICLR 2022. 
-* October, 2021 - Submitted a paper on Differentially Private Federated Learning to Nature Scientific Reports. 
 * October, 2021 - Submitted ongoing work on domain-agnostic SSL to NeurIPS workshop on 'Self-Supervised Learning - Theory and Practice'.
 * September, 2021 - Graduated from the University of Waterloo.
 * June, 2021 - Our paper 'Pay Attention with Focus: A Novel Learning Scheme for Classification of Whole Slide Images' got accept to MICCAI 2021
