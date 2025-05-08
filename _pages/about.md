@@ -23,9 +23,11 @@ supervised learning) for applications in computer vision, in particular, medical
 * Co-host of Self-Supervised Learning reading group at Vector Insitute. Feel free to reach out if you're interested in joining the reading group.
 
 # (Research) Updates
-* December, 2024 - Our workshop proposal got accepted at ICLR 2025. I will be co-organizing a workshop on [Sparsity in LLMs](https://sparsellms.org/). See you in Singapore! 
+* May, 2025 - Our paper on Sparse Training got accepted at ICML 2025 (acceptance rate ~25%). DM me if you have any questions or want to collaborate. See you in Vancouver! 
+* December, 2024 - Our workshop proposal got accepted at ICLR 2025. I will be co-organizing a workshop on [Sparsity in LLMs](https://sparsellms.org/). See you in Singapore!
+* October, 2024 - Received research funding from [Digital Research Alliance of Canada (DRAC)](https://www.alliancecan.ca/en) to investigate effect of LLM compression on model bias.
 * September, 2024 - Among 10 students to be awarded [Borealis AI Global Fellowship](https://rbcborealis.com/news/celebrating-the-future-of-ai-meet-our-new-fellows/). 
-* April, 2024 - Awarded prestigious NSERC Doctoral Fellowship from the Government of Canada. 
+* April, 2024 - Awarded prestigious [NSERC Doctoral Fellowship](https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/bellandpostgrad-belletsuperieures_eng.asp) from the Government of Canada. 
 * January, 2023 - Started PhD. 
 * September, 2022 - Started Research Internship at [Borealis AI](https://rbcborealis.com/).
 * January, 2022 - Paper accepted to Nature Scientific Reports.
