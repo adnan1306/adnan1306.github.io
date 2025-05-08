@@ -11,13 +11,13 @@ redirect_from:
 
 
 * I am a PhD student at the Vector Institute and the University of Calgary, supervised by [Dr. Yani Ioannou](https://yani.ai/) and [Dr. Rahul Krishnan](https://www.cs.toronto.edu/~rahulgk/).
-* My research goal is to make large foundational models, such as LLMs, smaller and efficient. Currently, my work focuses on developing efficient training methods for Sparse Neural Networks. I am also interested in understanding the training dynamics of (Sparse) Neural Networks, weight/permutation symmetries of Deep Neural Networks, and their effect on optimization and developing a better understanding of the loss landscape. Previously, I worked on Neural Tangent Kernel to better understand Shorcut Learning in Neural Networks.
+* My research goal is to make large foundational models, such as LLMs, smaller and efficient. Currently, my work focuses on developing efficient training methods for Sparse Neural Networks. I am also interested in understanding the training dynamics of (Sparse) Neural Networks, weight/permutation symmetries of Deep Neural Networks, and their effect on optimization and developing a better understanding of the loss landscape. Previously, I worked on Neural Tangent Kernel to better understand Shortcut Learning in Neural Networks.
 * My research is supported by NSERC, Borealis AI, Digital Research Alliance of Canada and Killiam Fellowship.
 * I received my Bachelor’s Degree in Electronics & Electrical Engineering from the Indian Institute of Technology Guwahati and a MASc degree from the University of Waterloo.
 
 
 # Academic Services:
-* Reviewer: ICLR 2021-25, UAI 2022-24), NeurIPS 2022-25, CVPR 2023-25, ICCV 2023-24.
+* Reviewer: ICLR 2021-25, UAI 2022-24, NeurIPS 2022-25, CVPR 2023-25, ICCV 2023-24.
 * Co-host of Self-Supervised Learning reading group at Vector Institute. Feel free to reach out if you're interested in joining the reading group.
 * Student mentorship: Rohan Jain (MASc), Tejas Pote (2023 Summer Intern), Nahush Lele (2023 Summer Intern). 
 
@@ -34,10 +34,10 @@ redirect_from:
 * November 2021 - Paper accepted at the NeurIPS workshop on 'Self-Supervised Learning - Theory and Practice'. 
 * October 2021 - Submitted ongoing work on domain-agnostic SSL to NeurIPS workshop on 'Self-Supervised Learning - Theory and Practice'.
 * September 2021 - Graduated from the University of Waterloo.
-* June 2021 - Our paper 'Pay Attention with Focus: A Novel Learning Scheme for Classification of Whole Slide Images' got accept to MICCAI 2021
-* July 2020 - Our paper 'Learning Permutation Invariant Representations using Memory Networks' has been accpeted for publication at ECCV 2020.
+* June 2021 - Our paper 'Pay Attention with Focus: A Novel Learning Scheme for Classification of Whole Slide Images' got accepted to MICCAI 2021
+* July 2020 - Our paper 'Learning Permutation Invariant Representations using Memory Networks' has been accepted for publication at ECCV 2020.
 * April 2020 - My recent work, "Representation Learning of Histopathology Images using Graph Neural Networks," got accepted to CVPR(W) 2020. 
-* September 2019 - Joined the University of Waterloo for graduate studies
-* April 2019. I was been awarded Vector Scholarship in AI by the [Vector Institute, Canada](https://vectorinstitute.ai/).
-* December 2018. I will be joining University of Waterloo for graduate studies in Fall 2019.
-* October 2017. I was awarded Shastri Indo Canadian Research Fellowship 2018.
+* September 2019 - Joined the University of Waterloo for graduate studies.
+* April 2019 - Awarded Vector Scholarship in AI by the [Vector Institute, Canada](https://vectorinstitute.ai/).
+* December 2018 - I will be joining University of Waterloo for graduate studies in Fall 2019.
+* October 2017 - Awarded Shastri Indo Canadian Research Fellowship 2018.
