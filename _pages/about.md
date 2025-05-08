@@ -23,11 +23,11 @@ supervised learning) for applications in computer vision, in particular, medical
 * Co-host of Self-Supervised Learning reading group at Vector Insitute. Feel free to reach out if you're interested in joining the reading group.
 
 # Recent News
-* December, 2024 - Our workshop proposal got accepted at ICLR 2025. I will be co-organizing a workshop on Sparsity in LLMs. See you in Singapore! 
+* December, 2024 - Our workshop proposal got accepted at ICLR 2025. I will be co-organizing a workshop on [Sparsity in LLMs](https://sparsellms.org/). See you in Singapore! 
 * September, 2024 - Among 10 students to be awarded Borealis AI Global Fellowship. 
 * April, 2024 - Awarded prestigious NSERC Doctoral Fellowship from the Government of Canada. 
 * January, 2023 - Started PhD. 
-* September, 2022 - Started Research Internship at Borealis AI.
+* September, 2022 - Started Research Internship at [Borealis AI](https://rbcborealis.com/).
 * January, 2022 - Paper accepted to Nature Scientific Reports.
 * December, 2022 - Paper accepted at the Trustworthy AI for Healthcare Workshop - AAAI 2022.
 * November, 2021 - Paper accepted at the NeurIPS workshop on 'Self-Supervised Learning - Theory and Practice'. 
