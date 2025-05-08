@@ -25,12 +25,12 @@ supervised learning) for applications in computer vision, in particular, medical
 
 # (Research) Updates
 * May 2025 - Our paper on Sparse Training got accepted at <b>ICML 2025</b> (acceptance rate ~25%). DM me if you have any questions or want to collaborate. See you in Vancouver! 
-* December 2024 - Our workshop proposal got accepted at <b>ICLR 2025</b>. I will be co-organizing a workshop on [Sparsity in LLMs](https://sparsellms.org/). See you in Singapore!
-* October 2024 - Received research funding from [Digital Research Alliance of Canada (DRAC)](https://www.alliancecan.ca/en) to investigate effect of LLM compression on model bias.
-* September 2024 - Among 10 students to be awarded [Borealis AI Global Fellowship](https://rbcborealis.com/news/celebrating-the-future-of-ai-meet-our-new-fellows/). 
+* December 2024 - Our workshop proposal got accepted at <b>ICLR 2025</b>. I will be co-organizing a workshop on [Sparsity in LLMs](https://sparsellms.org/), see you in Singapore!
+* October 2024 - Received research funding from [<b>Digital Research Alliance of Canada (DRAC)</b>](https://www.alliancecan.ca/en) to investigate effect of LLM compression on model bias.
+* September 2024 - Among 10 students to be awarded [<b>Borealis AI Global Fellowship</b>](https://rbcborealis.com/news/celebrating-the-future-of-ai-meet-our-new-fellows/). 
 * April 2024 - Awarded prestigious [<b>NSERC Doctoral Fellowship</b>](https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/bellandpostgrad-belletsuperieures_eng.asp) from the Government of Canada. 
 * January 2023 - Started PhD. 
-* September 2022 - Started Research Internship at [Borealis AI](https://rbcborealis.com/).
+* September 2022 - Started Research Internship at [<b>Borealis AI</b>](https://rbcborealis.com/).
 * January 2022 - Paper accepted to Nature Scientific Reports.
 * December 2022 - Paper accepted at the Trustworthy AI for Healthcare Workshop - AAAI 2022.
 * November 2021 - Paper accepted at the NeurIPS workshop on 'Self-Supervised Learning - Theory and Practice'. 
