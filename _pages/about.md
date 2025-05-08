@@ -9,11 +9,7 @@ redirect_from:
 ---
 
 
-
-* I am a PhD student at the Vector Institute and the University of Calgary, supervised by [Dr. Yani Ioannou](https://yani.ai/) and [Dr. Rahul Krishnan](https://www.cs.toronto.edu/~rahulgk/).
-* My research goal is to make large foundational models, such as LLMs, smaller and efficient. Currently, my work focuses on developing efficient training methods for Sparse Neural Networks. I am also interested in understanding the training dynamics of (Sparse) Neural Networks, weight/permutation symmetries of Deep Neural Networks, and their effect on optimization and developing a better understanding of the loss landscape. Previously, I worked on Neural Tangent Kernel to better understand Shortcut Learning in Neural Networks.
-* My research is supported by NSERC, Borealis AI, Digital Research Alliance of Canada and Killiam Fellowship.
-* I received my Bachelor’s Degree in Electronics & Electrical Engineering from the Indian Institute of Technology Guwahati and a MASc degree from the University of Waterloo.
+I am a PhD student at the Vector Institute and the University of Calgary, supervised by [Dr. Yani Ioannou](https://yani.ai/) and [Dr. Rahul Krishnan](https://www.cs.toronto.edu/~rahulgk/). My research goal is to make large foundational models, such as LLMs, smaller and efficient. Currently, my work focuses on developing efficient training methods for Sparse Neural Networks. I am also interested in understanding the training dynamics of (Sparse) Neural Networks, weight/permutation symmetries of Deep Neural Networks, and their effect on optimization and developing a better understanding of the loss landscape. Previously, I worked on the Neural Tangent Kernel to better understand Shortcut Learning in Neural Networks. My research is supported by NSERC, Borealis AI, Digital Research Alliance of Canada and Killiam Fellowship. I received my Bachelor’s Degree in Electronics & Electrical Engineering from the Indian Institute of Technology Guwahati and a MASc degree from the University of Waterloo. Feel free to reach out to me if you would like to discuss research or collaborate. 
 
 
 # Academic Services:
