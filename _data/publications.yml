@@ -1,47 +1,119 @@
+- year: 2026
+  title: "SparseOpt: Addressing Normalization-induced Gradient Skew in Sparse Training"
+  authors: "M. Adnan, R. Jain, T. Jacobs, E. Sharma, R.G. Krishnan, R. Burkholz, Y. Ioannou"
+  venue: "Conference on Parsimony and Learning (CPAL 2026)"
+  links:
+    - label: Paper
+      url: "#"
+
 - year: 2025
-  title: "Efficient Sparse Training for Large Language Models"
-  authors: "Mohammed Adnan, Yani Ioannou, Rahul Krishnan"
-  venue: "ICML 2025, Vancouver"
+  title: "Sparse Training from Random Initialization: Aligning Lottery Ticket Masks using Weight Symmetry"
+  authors: "M. Adnan, R. Jain, E. Sharma, R.G. Krishnan, Y. Ioannou"
+  venue: "International Conference on Machine Learning (ICML 2025)"
+  links:
+    - label: Paper
+      url: "#"
+
+- year: 2025
+  title: "Understanding Normalization Layers for Sparse Training"
+  authors: "M. Adnan, E. Sharma, R. Krishnan, Y. Ioannou"
+  venue: "High-dimensional Learning Dynamics Workshop (HiLD @ ICML 2025)"
+  links:
+    - label: Paper
+      url: "#"
+
+- year: 2025
+  title: "Does Compression Exacerbate Large Language Models' Social Bias?"
+  authors: "M.A. Ganaie, M. Adnan, A. Raja, S. Raza, Y. Ioannou"
+  venue: "Muslims in ML Workshop @ ICML 2025"
+  links:
+    - label: Paper
+      url: "#"
+
+- year: 2025
+  title: "Workshop on Sparsity in LLMs (SLLM): Deep Dive into Mixture of Experts, Quantization, Hardware, and Inference"
+  authors: "T. Chen, U. Evci, Y. Ioannou, B. Isik, S. Liu, M. Adnan, A. Nowak, A. Panda"
+  venue: "ICLR 2025 Workshop"
+  links:
+    - label: Workshop
+      url: "#"
+
+- year: 2024
+  title: "Detecting Shortcuts using Mutual Information"
+  authors: "M. Adnan, Y. Ioannou, K. Tsai, A. Galloway, H. Tizhoosh, R.G. Krishnan et al."
+  venue: "2024"
+  links:
+    - label: Paper
+      url: "#"
+
+- year: 2024
+  title: "Structured Model Pruning for Efficient Inference in Computational Pathology"
+  authors: "M. Adnan, Q. Ba, N. Shaikh, S. Kalra, S. Mukherjee, A. Lorsakul"
+  venue: "MICCAI Workshop on Medical Optical Imaging and Virtual Microscopy (2024)"
+  links:
+    - label: Paper
+      url: "#"
+
+- year: 2024
+  title: "Long-Tail Learning with Language Model Guided Curricula"
+  authors: "M. Adnan, R. Krishnan, Y. Ioannou"
+  venue: "2024"
+  links:
+    - label: Paper
+      url: "#"
+
+- year: 2023
+  title: "Classification Bias on a Data Diet"
+  authors: "T. Pote, M. Adnan, Y. Yargic, Y. Ioannou"
+  venue: "Conference on Parsimony and Learning (CPAL 2023)"
   links:
     - label: Paper
       url: "#"
 
 - year: 2022
-  title: "Domain-Agnostic Self-Supervised Learning"
-  authors: "Mohammed Adnan et al."
-  venue: "Nature Scientific Reports, 2022"
-  links:
-    - label: Paper
-      url: "#"
-
-- year: 2022
-  title: "Trustworthy AI for Healthcare"
-  authors: "Mohammed Adnan et al."
-  venue: "AAAI Workshop on Trustworthy AI for Healthcare, 2022"
+  title: "Federated Learning and Differential Privacy for Medical Image Analysis"
+  authors: "M. Adnan, S. Kalra, J.C. Cresswell, G.W. Taylor, H. Tizhoosh"
+  venue: "Scientific Reports (2022)"
   links:
     - label: Paper
       url: "#"
 
 - year: 2021
-  title: "Pay Attention with Focus: Classification of Whole Slide Images"
-  authors: "Mohammed Adnan et al."
+  title: "Fine-Tuning and Training of DenseNet for Histopathology Image Representation using TCGA Diagnostic Slides"
+  authors: "A. Riasatian, M. Babaie, D. Maleki, S. Kalra, M. Adnan et al."
+  venue: "Medical Image Analysis (2021)"
+  links:
+    - label: Paper
+      url: "#"
+
+- year: 2021
+  title: "Pay Attention with Focus: A Novel Learning Scheme for Classification of Whole Slide Images"
+  authors: "S. Kalra, M. Adnan, S. Hemati et al."
   venue: "MICCAI 2021"
   links:
     - label: Paper
       url: "#"
 
-- year: 2020
-  title: "Learning Permutation Invariant Representations using Memory Networks"
-  authors: "Mohammed Adnan et al."
-  venue: "ECCV 2020"
+- year: 2021
+  title: "Domain-Agnostic Clustering with Self-Distillation"
+  authors: "M. Adnan, Y.A. Ioannou, C.Y. Tsai, G.W. Taylor"
+  venue: "NeurIPS 2021 Workshop: Self-Supervised Learning — Theory and Practice"
   links:
     - label: Paper
       url: "#"
 
 - year: 2020
   title: "Representation Learning of Histopathology Images using Graph Neural Networks"
-  authors: "Mohammed Adnan et al."
+  authors: "M. Adnan, S. Kalra, H.R. Tizhoosh"
   venue: "CVPR Workshop 2020"
+  links:
+    - label: Paper
+      url: "#"
+
+- year: 2020
+  title: "Learning Permutation Invariant Representations using Memory Networks"
+  authors: "S. Kalra, M. Adnan, G. Taylor, H. Tizhoosh"
+  venue: "European Conference on Computer Vision (ECCV 2020)"
   links:
     - label: Paper
       url: "#"

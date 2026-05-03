@@ -1,0 +1,41 @@
+fellowships:
+  - title: "Killam Doctoral Fellowship"
+    org: "Killam Trusts"
+    year: "2025"
+    detail: "Awarded in recognition of research contributions."
+    url: "https://killamlaureates.ca/"
+
+  - title: "Borealis AI Global Fellowship"
+    org: "Borealis AI / RBC"
+    year: "2024"
+    detail: "Among 10 students selected globally."
+    url: "https://rbcborealis.com/news/celebrating-the-future-of-ai-meet-our-new-fellows/"
+
+  - title: "NSERC Doctoral Fellowship"
+    org: "Government of Canada"
+    year: "2024"
+    detail: "National fellowship for doctoral research in natural sciences and engineering."
+    url: "https://www.nserc-crsng.gc.ca/"
+
+  - title: "Vector Scholarship in AI"
+    org: "Vector Institute, Canada"
+    year: "2019"
+    detail: ""
+    url: "https://vectorinstitute.ai/"
+
+  - title: "Shastri Indo-Canadian Research Fellowship"
+    org: "Shastri Indo-Canadian Institute"
+    year: "2018"
+    detail: ""
+    url: "https://www.shastriinstitute.org/"
+
+funding:
+  - title: "Digital Research Alliance of Canada (DRAC) Grant"
+    year: "2024"
+    detail: "Research funding to study LLM compression and model bias."
+    url: "https://www.alliancecan.ca/en"
+
+  - title: "Borealis AI Research Internship"
+    year: "2025"
+    detail: "Research intern at Borealis AI, RBC."
+    url: "https://rbcborealis.com/"

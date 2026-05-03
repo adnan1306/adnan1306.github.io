@@ -234,6 +234,16 @@ nav {
 .highlight-meta { font-family: 'Crimson Pro', serif; font-size: 12.5px; font-weight: 300; color: #aaa; font-style: italic; margin-top: 2px; }
 .highlight-meta .flag { font-style: normal; font-size: 13px; vertical-align: middle; line-height: 1; }
 
+/* AWARDS */
+.awards-section { margin-bottom: 2.5rem; }
+.award-item { display: flex; gap: 20px; margin-bottom: 1.25rem; align-items: flex-start; }
+.award-year { font-size: 12px; font-weight: 400; color: #bbb; letter-spacing: .04em; white-space: nowrap; padding-top: 2px; width: 36px; flex-shrink: 0; }
+.award-body { flex: 1; }
+.award-title { font-size: 14.5px; font-weight: 300; color: #3a3a3a; line-height: 1.4; }
+.award-title a { color: #3a3a3a; text-decoration: underline; text-underline-offset: 2px; }
+.award-org { font-size: 13px; font-weight: 300; color: #888; margin-top: 1px; }
+.award-detail { font-size: 13px; font-weight: 300; color: #aaa; font-style: italic; margin-top: 2px; }
+
 @media (max-width: 600px) {
   .body { grid-template-columns: 1fr; }
   .sidebar { flex-direction: row; align-items: flex-start; gap: 16px; flex-wrap: wrap; }

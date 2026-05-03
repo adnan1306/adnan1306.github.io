@@ -1,18 +1,40 @@
 ---
 layout: default
-title: Awards
+title: Awards & Funding
 permalink: /awards/
 ---
 
 <div class="page-content">
 
-<h1>Awards & Fellowships</h1>
+<div class="awards-section">
+  <div class="section-label">Fellowships & Awards</div>
+  {% for item in site.data.awards.fellowships %}
+  <div class="award-item">
+    <div class="award-year">{{ item.year }}</div>
+    <div class="award-body">
+      <div class="award-title">
+        {% if item.url %}<a href="{{ item.url }}" target="_blank">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}
+      </div>
+      <div class="award-org">{{ item.org }}</div>
+      {% if item.detail != "" %}<div class="award-detail">{{ item.detail }}</div>{% endif %}
+    </div>
+  </div>
+  {% endfor %}
+</div>
 
-- **[Killam Doctoral Fellowship](https://killamlaureates.ca/)** (2025) — Awarded in recognition of research contributions.
-- **[NSERC Doctoral Fellowship](https://www.nserc-crsng.gc.ca/)** (2024) — Government of Canada fellowship for doctoral research.
-- **[Borealis AI Global Fellowship](https://rbcborealis.com/)** (2024) — Among 10 students selected globally.
-- **Digital Research Alliance of Canada Grant** (2024) — Research funding to investigate LLM compression and model bias.
-- **Vector Scholarship in AI** (2019) — Awarded by the Vector Institute, Canada.
-- **Shastri Indo Canadian Research Fellowship** (2018)
+<div class="awards-section">
+  <div class="section-label">Research Funding</div>
+  {% for item in site.data.awards.funding %}
+  <div class="award-item">
+    <div class="award-year">{{ item.year }}</div>
+    <div class="award-body">
+      <div class="award-title">
+        {% if item.url %}<a href="{{ item.url }}" target="_blank">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}
+      </div>
+      {% if item.detail != "" %}<div class="award-detail">{{ item.detail }}</div>{% endif %}
+    </div>
+  </div>
+  {% endfor %}
+</div>
 
 </div>
