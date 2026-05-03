@@ -67,5 +67,9 @@ permalink: /
         <svg viewBox="0 0 16 16" fill="currentColor"><path d="M7.5 1L0 5.5l2.5 1.5V11c0 1.38 2.24 2.5 5 2.5s5-1.12 5-2.5V7l1.5-.9V11.5H15V5.5L7.5 1zM7.5 12C5.57 12 4 11.33 4 10.5S5.57 9 7.5 9 11 9.67 11 10.5 9.43 12 7.5 12z"/></svg>
       </a>
     </div>
+    <div class="profile-address">
+      <div class="address-name"><svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-0.15em;margin-right:3px;"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg>Vector Institute</div>
+      <div class="address-detail">108 College St, Toronto<br>Ontario, Canada <img src="/assets/images/flag-ca.svg" alt="Canada" style="height:0.8em;width:auto;vertical-align:-0.1em;display:inline-block;"></div>
+    </div>
   </div>
 </div>
