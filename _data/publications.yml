@@ -1,0 +1,47 @@
+- year: 2025
+  title: "Efficient Sparse Training for Large Language Models"
+  authors: "Mohammed Adnan, Yani Ioannou, Rahul Krishnan"
+  venue: "ICML 2025, Vancouver"
+  links:
+    - label: Paper
+      url: "#"
+
+- year: 2022
+  title: "Domain-Agnostic Self-Supervised Learning"
+  authors: "Mohammed Adnan et al."
+  venue: "Nature Scientific Reports, 2022"
+  links:
+    - label: Paper
+      url: "#"
+
+- year: 2022
+  title: "Trustworthy AI for Healthcare"
+  authors: "Mohammed Adnan et al."
+  venue: "AAAI Workshop on Trustworthy AI for Healthcare, 2022"
+  links:
+    - label: Paper
+      url: "#"
+
+- year: 2021
+  title: "Pay Attention with Focus: Classification of Whole Slide Images"
+  authors: "Mohammed Adnan et al."
+  venue: "MICCAI 2021"
+  links:
+    - label: Paper
+      url: "#"
+
+- year: 2020
+  title: "Learning Permutation Invariant Representations using Memory Networks"
+  authors: "Mohammed Adnan et al."
+  venue: "ECCV 2020"
+  links:
+    - label: Paper
+      url: "#"
+
+- year: 2020
+  title: "Representation Learning of Histopathology Images using Graph Neural Networks"
+  authors: "Mohammed Adnan et al."
+  venue: "CVPR Workshop 2020"
+  links:
+    - label: Paper
+      url: "#"

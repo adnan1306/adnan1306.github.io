@@ -1,0 +1,14 @@
+services:
+  jekyll:
+    image: jekyll/jekyll:4.2.2
+    command: bash -c "bundle install --path vendor/bundle && bundle exec jekyll serve --host 0.0.0.0 --port 4000 --livereload --force_polling"
+    volumes:
+      - .:/srv/jekyll
+    ports:
+      - "4000:4000"
+      - "35729:35729"
+    user: "1000008:1000001"
+    environment:
+      - JEKYLL_ENV=development
+      - BUNDLE_PATH=/srv/jekyll/vendor/bundle
+      - GEM_HOME=/srv/jekyll/vendor/bundle

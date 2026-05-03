@@ -1,0 +1,11 @@
+- question: "Can we train neural networks to be sparse from the start, without sacrificing performance?"
+  answer: "Most pruning methods discard weights after training — but this wastes compute. I study whether sparsity can be imposed during training itself, and what mathematical conditions make this work without degrading accuracy."
+
+- question: "What does the loss landscape look like for sparse and overparameterized networks?"
+  answer: "Using tools from non-convex optimization — mirror flow, mean field theory, and stochastic differential equations — I try to understand how overparameterization shapes the geometry of training, and how that geometry can be exploited to find sparser, better-generalizing solutions."
+
+- question: "How do weight symmetries in deep networks affect optimization?"
+  answer: "Deep networks have many equivalent parameter configurations related by permutation symmetries. I investigate how these symmetries interact with gradient-based optimization and whether they can be leveraged to improve convergence or model compression."
+
+- question: "How can LLMs be compressed without losing their emergent capabilities?"
+  answer: "Large language models acquire surprising abilities at scale — but these are fragile under compression. I explore how sparsification and efficient training can reduce model size while preserving the reasoning and generalization capabilities that make these models useful."
