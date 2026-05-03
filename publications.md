@@ -20,7 +20,7 @@ permalink: /publications/
     <span class="pub-venue">{{ pub.venue }}</span>
     <div class="pub-links">
       {% for link in pub.links %}
-      <a href="{{ link.url }}"{% unless link.url == "#" %}target="_blank"{% endunless %}>{{ link.label }}</a>
+      {% if link.url == "#" %}<a href="#">{{ link.label }}</a>{% else %}<a href="{{ link.url }}" target="_blank">{{ link.label }}</a>{% endif %}
       {% endfor %}
     </div>
   </div>

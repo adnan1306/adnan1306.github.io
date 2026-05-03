@@ -230,9 +230,19 @@ nav {
 .highlight-item:last-child { margin-bottom: 0; }
 .highlight-bar { width: 2.5px; border-radius: 2px; background: #0d1b4b; flex-shrink: 0; align-self: stretch; min-height: 36px; }
 .highlight-title { font-family: 'Crimson Pro', serif; font-size: 14px; font-weight: 300; color: #3a3a3a; line-height: 1.4; }
-.highlight-title a { color: #3a3a3a; text-decoration: underline; text-underline-offset: 2px; }
+.highlight-title a {
+  color: #3a3a3a;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  text-decoration-color: rgba(0,0,0,0.2);
+}
+.highlight-title a:hover {
+  text-decoration-color: #0d1b4b;
+  color: #0d1b4b;
+}
 .highlight-meta { font-family: 'Crimson Pro', serif; font-size: 12.5px; font-weight: 300; color: #aaa; font-style: italic; margin-top: 2px; }
 .highlight-meta .flag { font-style: normal; font-size: 13px; vertical-align: middle; line-height: 1; }
+.arxiv-icon { height: 26px; width: auto; vertical-align: middle; display: inline-block; font-style: normal; }
 
 /* AWARDS */
 .awards-section { margin-bottom: 2.5rem; }

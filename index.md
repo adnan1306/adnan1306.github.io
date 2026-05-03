@@ -15,7 +15,9 @@ permalink: /
       <div class="highlight-item">
         <div class="highlight-bar"></div>
         <div class="highlight-content">
-          <div class="highlight-title">{{ item.title }}</div>
+          <div class="highlight-title">
+            {% if item.url %}<a href="{{ item.url }}" target="_blank">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}
+          </div>
           <div class="highlight-meta">{{ item.meta }}</div>
         </div>
       </div>

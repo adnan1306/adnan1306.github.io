@@ -1,7 +1,15 @@
 - year: 2026
+  title: "Generalizing the Geometry of Model Merging Through Fréchet Averages"
+  authors: "M. Adnan et al."
+  venue: "arXiv preprint, April 2026"
+  links:
+    - label: arXiv
+      url: "https://arxiv.org/abs/2604.27155"
+
+- year: 2026
   title: "SparseOpt: Addressing Normalization-induced Gradient Skew in Sparse Training"
   authors: "M. Adnan, R. Jain, T. Jacobs, E. Sharma, R.G. Krishnan, R. Burkholz, Y. Ioannou"
-  venue: "Conference on Parsimony and Learning (CPAL 2026)"
+  venue: "ICML 2026 (to appear)"
   links:
     - label: Paper
       url: "#"
