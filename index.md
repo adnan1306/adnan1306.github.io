@@ -6,9 +6,20 @@ permalink: /
 <div class="body">
   <div class="left">
     <div class="bio" id="bio">
-      <p>I am a PhD student at the <a href="https://vectorinstitute.ai/">Vector Institute</a> and the University of Calgary, supervised by <a href="https://yani.ai/">Dr. Yani Ioannou</a> and <a href="https://www.cs.toronto.edu/~rahulgk/">Dr. Rahul Krishnan</a>.</p>
-      <p>My research focuses on making large foundational models — such as LLMs — smaller and more efficient, through sparse neural network training, training dynamics, and loss landscape geometry.</p>
-      <p>Supported by NSERC, Borealis AI, DRAC, and the Killam Fellowship. Feel free to reach out to discuss or collaborate.</p>
+      <p>I am a PhD student at the <a href="https://vectorinstitute.ai/">Vector Institute</a> and the University of Calgary, supervised by <a href="https://yani.ai/">Dr. Yani Ioannou</a> and <a href="https://www.cs.toronto.edu/~rahulgk/">Dr. Rahul Krishnan</a>. My research focuses on making large foundational models — such as LLMs — smaller and more efficient, through sparse neural network training, training dynamics, and loss landscape geometry. Supported by NSERC, Borealis AI, DRAC, and the Killam Fellowship. Feel free to reach out to discuss or collaborate.</p>
+    </div>
+
+    <div class="highlights-block" id="highlights">
+      <div class="section-label">Recent Highlights</div>
+      {% for item in site.data.highlights %}
+      <div class="highlight-item">
+        <div class="highlight-bar"></div>
+        <div class="highlight-content">
+          <div class="highlight-title">{{ item.title }}</div>
+          <div class="highlight-meta">{{ item.meta }}</div>
+        </div>
+      </div>
+      {% endfor %}
     </div>
 
     <div class="research-block">

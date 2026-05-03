@@ -71,7 +71,7 @@ nav {
 
 /* SECTION LABEL */
 .section-label {
-  font-size: 10.5px;
+  font-size: 21px;
   font-weight: 400;
   letter-spacing: .12em;
   text-transform: uppercase;
@@ -120,7 +120,7 @@ nav {
 /* UPDATES */
 .updates-wrap { transition: opacity .3s; }
 .updates-label {
-  font-size: 10.5px;
+  font-size: 21px;
   font-weight: 400;
   letter-spacing: .12em;
   text-transform: uppercase;
@@ -156,8 +156,8 @@ nav {
 /* SIDEBAR */
 .sidebar { display: flex; flex-direction: column; align-items: center; padding-top: 0; }
 .profile-photo {
-  width: 170px; height: 200px;
-  object-fit: cover; object-position: top;
+  width: 170px;
+  height: auto;
   display: block;
   border-radius: 8px;
 }
@@ -213,6 +213,15 @@ nav {
 .pub-item .pub-venue { color: #888; font-size: 13.5px; }
 .pub-item .pub-links { font-size: 13px; margin-top: 0.2rem; }
 .pub-item .pub-links a { margin-right: 0.75rem; color: #0d1b4b; }
+
+/* HIGHLIGHTS */
+.highlights-block { margin-bottom: 28px; transition: opacity .3s; }
+.highlight-item { display: flex; gap: 12px; margin-bottom: 12px; align-items: flex-start; }
+.highlight-item:last-child { margin-bottom: 0; }
+.highlight-bar { width: 2.5px; border-radius: 2px; background: #0d1b4b; flex-shrink: 0; align-self: stretch; min-height: 36px; }
+.highlight-title { font-family: 'Crimson Pro', serif; font-size: 14px; font-weight: 300; color: #3a3a3a; line-height: 1.4; }
+.highlight-meta { font-family: 'Crimson Pro', serif; font-size: 12.5px; font-weight: 300; color: #aaa; font-style: italic; margin-top: 2px; }
+.highlight-meta .flag { font-style: normal; font-size: 13px; vertical-align: middle; line-height: 1; }
 
 @media (max-width: 600px) {
   .body { grid-template-columns: 1fr; }

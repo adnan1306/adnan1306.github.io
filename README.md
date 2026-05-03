@@ -64,3 +64,9 @@ Your site will be live at `https://adnan1306.github.io` within a minute.
 ## Adding Your Photo
 
 Drop your headshot into `assets/images/headshot.png` (or update the path in `_config.yml`).
+
+## TODO
+
+- [ ] Fix profile photo size — currently very vertical; make slightly more square without cropping or distorting aspect ratio
+- [ ] Fix font sizes — research interests and updates content text needs tuning
+- [ ] Replace bio text placeholder with final copy

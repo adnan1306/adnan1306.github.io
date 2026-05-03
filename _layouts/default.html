@@ -23,6 +23,22 @@
     <div class="footer">&copy; {{ 'now' | date: "%Y" }} {{ site.author.name }}</div>
   </div>
   <script>
+  function closeAll(){
+    document.querySelectorAll('.rq-body.open').forEach(function(b){b.classList.remove('open');});
+    document.querySelectorAll('.rq-arrow.open').forEach(function(a){a.classList.remove('open');});
+    document.querySelectorAll('.rq-item.open').forEach(function(i){i.classList.remove('open');});
+    var bio=document.getElementById('bio');
+    var updates=document.getElementById('updates');
+    var highlights=document.getElementById('highlights');
+    if(bio) bio.classList.remove('dimmed');
+    if(updates) updates.classList.remove('dimmed');
+    if(highlights) highlights.classList.remove('dimmed');
+  }
+  document.addEventListener('click', function(e){
+    if(document.querySelector('.rq-item.open') && !e.target.closest('.research-block')){
+      closeAll();
+    }
+  });
   function toggle(trigger){
     var arrow=trigger.querySelector('.rq-arrow');
     var item=trigger.parentElement;
@@ -33,14 +49,17 @@
     document.querySelectorAll('.rq-item.open').forEach(function(i){i.classList.remove('open');});
     var bio=document.getElementById('bio');
     var updates=document.getElementById('updates');
+    var highlights=document.getElementById('highlights');
     if(bio) bio.classList.remove('dimmed');
     if(updates) updates.classList.remove('dimmed');
+    if(highlights) highlights.classList.remove('dimmed');
     if(!isOpen){
       body.classList.add('open');
       arrow.classList.add('open');
       item.classList.add('open');
       if(bio) bio.classList.add('dimmed');
       if(updates) updates.classList.add('dimmed');
+      if(highlights) highlights.classList.add('dimmed');
     }
   }
   </script>
