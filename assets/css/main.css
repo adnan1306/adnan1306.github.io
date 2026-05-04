@@ -6,14 +6,13 @@ body {
   font-family: 'Crimson Pro', serif;
   background: #fbfbfb;
   color: #3a3a3a;
-  font-size: 15px;
+  font-size: 16.5px;
   line-height: 1.75;
 }
 
 .page-wrap {
   max-width: 1000px;
   margin: 0 auto;
-  overflow: hidden;
   margin-top: 2rem;
   margin-bottom: 2rem;
 }
@@ -58,7 +57,7 @@ nav {
 
 /* BIO */
 .bio {
-  font-size: 17px;
+  font-size: 18px;
   font-weight: 300;
   line-height: 1.8;
   color: #3a3a3a;
@@ -91,7 +90,7 @@ nav {
   gap: 12px;
 }
 .rq-title {
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 300;
   color: #3a3a3a;
   line-height: 1.5;
@@ -117,7 +116,7 @@ nav {
   font-weight: 400;
 }
 .rq-body {
-  font-size: 15.5px;
+  font-size: 17px;
   font-weight: 300;
   line-height: 1.75;
   color: #555;
@@ -207,6 +206,10 @@ nav {
 .page-content li { margin-bottom: 0.3rem; font-size: 14.5px; font-weight: 300; }
 .page-content a { color: #3a3a3a; text-decoration: underline; text-underline-offset: 2px; }
 
+.scholar-note { font-size: 18px; font-weight: 300; color: #888; margin-bottom: 1.5rem; }
+.scholar-note a { color: #0d1b4b; }
+.scholar-note svg { width: 16px; height: 16px; vertical-align: -0.15em; margin-left: 4px; }
+
 /* PUBLICATIONS */
 .pub-year {
   font-size: 11px; font-weight: 400; color: #bbb;
@@ -214,10 +217,11 @@ nav {
   border-bottom: 0.5px solid #eee; padding-bottom: 0.25rem;
   letter-spacing: .08em; text-transform: uppercase;
 }
-.pub-item { margin-bottom: 1.25rem; font-size: 14.5px; font-weight: 300; line-height: 1.65; }
+.pub-item { margin-bottom: 1.25rem; font-size: 18px; font-weight: 300; line-height: 1.65; }
 .pub-item .pub-title { font-style: italic; }
-.pub-item .pub-venue { color: #888; font-size: 13.5px; }
-.pub-item .pub-links { font-size: 13px; margin-top: 0.2rem; }
+.my-name { text-decoration: underline; text-underline-offset: 2px; }
+.pub-item .pub-venue { color: #888; font-size: 16.5px; }
+.pub-item .pub-links { font-size: 16px; margin-top: 0.2rem; }
 .pub-item .pub-links a { margin-right: 0.75rem; color: #0d1b4b; }
 
 /* HIGHLIGHTS */
@@ -225,7 +229,7 @@ nav {
 .highlight-item { display: flex; gap: 12px; margin-bottom: 12px; align-items: flex-start; }
 .highlight-item:last-child { margin-bottom: 0; }
 .highlight-bar { width: 2.5px; border-radius: 2px; background: #0d1b4b; flex-shrink: 0; align-self: stretch; min-height: 36px; }
-.highlight-title { font-family: 'Crimson Pro', serif; font-size: 16px; font-weight: 300; color: #3a3a3a; line-height: 1.4; }
+.highlight-title { font-family: 'Crimson Pro', serif; font-size: 18px; font-weight: 300; color: #3a3a3a; line-height: 1.4; }
 .highlight-title a {
   color: #3a3a3a;
   text-decoration: underline;
@@ -236,8 +240,8 @@ nav {
   text-decoration-color: #0d1b4b;
   color: #0d1b4b;
 }
-.highlight-meta { font-family: 'Crimson Pro', serif; font-size: 12.5px; font-weight: 300; color: #aaa; font-style: italic; margin-top: 2px; }
-.highlight-meta .flag { font-style: normal; font-size: 13px; vertical-align: middle; line-height: 1; }
+.highlight-meta { font-family: 'Crimson Pro', serif; font-size: 15px; font-weight: 300; color: #aaa; font-style: italic; margin-top: 2px; }
+.highlight-meta .flag { font-style: normal; font-size: 15px; vertical-align: middle; line-height: 1; }
 .arxiv-icon { height: 26px; width: auto; vertical-align: middle; display: inline-block; font-style: normal; }
 
 /* AWARDS */
@@ -253,12 +257,14 @@ nav {
 @media (max-width: 600px) {
   .body { grid-template-columns: 1fr; }
   .sidebar { flex-direction: column; align-items: center; order: -1; }
-  .profile-photo { width: 100px; }
+  .profile-photo { width: 170px; }
   .profile-name { font-size: 18px; white-space: nowrap; margin-top: 8px; }
   .profile-address { width: auto; text-align: center; }
   .page-wrap { margin: 0; }
-  nav { padding: 0 16px; }
-  .nav-name { white-space: nowrap; font-size: 17px; }
+  nav { padding: 6px 16px; height: auto; flex-wrap: wrap; gap: 4px; position: sticky; top: 0; z-index: 100; background: #fbfbfb; }
+  .nav-name { white-space: nowrap; font-size: 17px; width: 100%; }
+  .nav-links { flex-wrap: wrap; }
+  .nav-links a { font-size: 14px; padding: 3px 8px; }
   .body { padding: 24px 16px; }
   .footer { padding: 12px 16px; }
 }
