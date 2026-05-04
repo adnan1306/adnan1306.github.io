@@ -206,6 +206,10 @@ nav {
 .page-content li { margin-bottom: 0.3rem; font-size: 14.5px; font-weight: 300; }
 .page-content a { color: #3a3a3a; text-decoration: underline; text-underline-offset: 2px; }
 
+.scholar-note { font-size: 18px; font-weight: 300; color: #888; margin-bottom: 1.5rem; }
+.scholar-note a { color: #0d1b4b; }
+.scholar-note svg { width: 16px; height: 16px; vertical-align: -0.15em; margin-left: 4px; }
+
 /* PUBLICATIONS */
 .pub-year {
   font-size: 11px; font-weight: 400; color: #bbb;
@@ -213,10 +217,11 @@ nav {
   border-bottom: 0.5px solid #eee; padding-bottom: 0.25rem;
   letter-spacing: .08em; text-transform: uppercase;
 }
-.pub-item { margin-bottom: 1.25rem; font-size: 14.5px; font-weight: 300; line-height: 1.65; }
+.pub-item { margin-bottom: 1.25rem; font-size: 18px; font-weight: 300; line-height: 1.65; }
 .pub-item .pub-title { font-style: italic; }
-.pub-item .pub-venue { color: #888; font-size: 13.5px; }
-.pub-item .pub-links { font-size: 13px; margin-top: 0.2rem; }
+.my-name { text-decoration: underline; text-underline-offset: 2px; }
+.pub-item .pub-venue { color: #888; font-size: 16.5px; }
+.pub-item .pub-links { font-size: 16px; margin-top: 0.2rem; }
 .pub-item .pub-links a { margin-right: 0.75rem; color: #0d1b4b; }
 
 /* HIGHLIGHTS */
