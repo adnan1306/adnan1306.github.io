@@ -6,7 +6,7 @@ permalink: /
 <div class="body">
   <div class="left">
     <div class="bio" id="bio">
-      <p>I am a PhD student at the <a href="https://vectorinstitute.ai/">Vector Institute</a> and the University of Calgary, supervised by <a href="https://yani.ai/">Dr. Yani Ioannou</a> and <a href="https://www.cs.toronto.edu/~rahulgk/">Dr. Rahul Krishnan</a>. My research focuses on making large foundational models — such as LLMs — smaller and more efficient, through sparse neural network training, training dynamics, and loss landscape geometry. Supported by NSERC, Borealis AI, DRAC, and the Killam Fellowship. Feel free to reach out to discuss or collaborate.</p>
+      <p>I am a PhD student at the <a href="https://vectorinstitute.ai/">Vector Institute</a> and the University of Calgary, supervised by <a href="https://yani.ai/">Dr. Yani Ioannou</a> and <a href="https://www.cs.toronto.edu/~rahulgk/">Dr. Rahul Krishnan</a>. My research focuses on weight-space symmetries and their implications for optimization and generalization. I’m particularly interested in linear mode connectivity, model matching and merging, and training dynamics, as well as efficient adaptation methods for LLMs, such as low-rank representations and weight-space learning. My research is supported by NSERC, Borealis AI, Digital Research Alliance of Canada, and the Killam Fellowship. Feel free to reach out to discuss or collaborate.</p>
     </div>
 
     <div class="highlights-block" id="highlights">

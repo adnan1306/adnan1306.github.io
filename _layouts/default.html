@@ -20,7 +20,10 @@
       </ul>
     </nav>
     {{ content }}
-    <div class="footer">&copy; {{ 'now' | date: "%Y" }} {{ site.author.name }}</div>
+    <div class="footer">
+      <div>&copy; {{ 'now' | date: "%Y" }} {{ site.author.name }}</div>
+      <div>Last updated: {{ site.last_updated }}</div>
+    </div>
   </div>
   <script>
   function closeAll(){
