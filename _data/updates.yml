@@ -1,0 +1,47 @@
+- date: "Mar 2026"
+  text: "Gave a talk on the <strong>Role of Symmetries in Optimization</strong> at the Technical University of Munich (TUM), hosted by <a href='https://people.csail.mit.edu/stefje/'>Dr. Stefanie Jegelka</a>."
+
+- date: "Mar 2026"
+  text: "Will be attending <a href='https://cpal.cc/'>CPAL 2026</a> in Tübingen."
+
+- date: "Oct 2025"
+  text: "Research visit to CISPA, Saarbrücken, Germany, hosted by <a href='https://relationalml.github.io/'>Dr. Rebekka Burkholz</a>."
+
+- date: "May 2025"
+  text: "Joined <a href='https://rbcborealis.com/'>Borealis AI</a> as a Research Intern."
+
+- date: "May 2025"
+  text: "Awarded the prestigious <a href='https://killamlaureates.ca/'>Killam Doctoral Fellowship</a> in recognition of research contributions."
+
+- date: "May 2025"
+  text: "Paper on Sparse Training accepted at <em>ICML 2025</em> in Vancouver."
+
+- date: "Dec 2024"
+  text: "Workshop proposal accepted at <em>ICLR 2025</em>. Co-organizing <a href='https://sparsellms.org/'>Sparsity in LLMs</a> in Singapore."
+
+- date: "Oct 2024"
+  text: "Research funding from the <a href='https://www.alliancecan.ca/en'>Digital Research Alliance of Canada</a> to study LLM compression and model bias."
+
+- date: "Sep 2024"
+  text: "Among 10 students awarded the <a href='https://rbcborealis.com/news/celebrating-the-future-of-ai-meet-our-new-fellows/'>Borealis AI Global Fellowship</a>."
+
+- date: "Apr 2024"
+  text: "Awarded the <a href='https://www.nserc-crsng.gc.ca/'>NSERC Doctoral Fellowship</a> from the Government of Canada."
+
+- date: "Jan 2023"
+  text: "Started PhD at Vector Institute / University of Calgary."
+
+- date: "Sep 2022"
+  text: "Research internship at <a href='https://rbcborealis.com/'>Borealis AI</a>."
+
+- date: "Jun 2021"
+  text: "Paper on whole-slide image classification accepted at <em>MICCAI 2021</em>."
+
+- date: "Jul 2020"
+  text: "Paper on permutation-invariant representations accepted at <em>ECCV 2020</em>."
+
+- date: "Apr 2020"
+  text: "Paper on histopathology GNNs accepted at <em>CVPR Workshop 2020</em>."
+
+- date: "Apr 2019"
+  text: "Awarded Vector Scholarship in AI by the <a href='https://vectorinstitute.ai/'>Vector Institute, Canada</a>."

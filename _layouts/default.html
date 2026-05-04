@@ -1,33 +1,70 @@
----
-layout: compress
----
-
-{% include base_path %}
-
-<!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
-  <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-  </head>
-
-  <body>
-
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{% if page.title %}{{ page.title }} — {% endif %}{{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,300;0,400;1,300;1,400&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <div class="page-wrap">
+    <nav>
+      <a href="{{ '/' | relative_url }}" class="nav-name">{{ site.title }}</a>
+      <ul class="nav-links">
+        {% for item in site.nav %}
+          <li><a href="{{ item.url | relative_url }}"{% if page.url == item.url %} class="active"{% endif %}>{{ item.label }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
     {{ content }}
-
-    </script>
-
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
+    <div class="footer">
+      <div>&copy; {{ 'now' | date: "%Y" }} {{ site.author.name }}</div>
+      <div>Last updated: {{ site.last_updated }}</div>
     </div>
-
-    {% include scripts.html %}
-
-  </body>
+  </div>
+  <script>
+  function closeAll(){
+    document.querySelectorAll('.rq-body.open').forEach(function(b){b.classList.remove('open');});
+    document.querySelectorAll('.rq-arrow.open').forEach(function(a){a.classList.remove('open');});
+    document.querySelectorAll('.rq-item.open').forEach(function(i){i.classList.remove('open');});
+    var bio=document.getElementById('bio');
+    var updates=document.getElementById('updates');
+    var highlights=document.getElementById('highlights');
+    if(bio) bio.classList.remove('dimmed');
+    if(updates) updates.classList.remove('dimmed');
+    if(highlights) highlights.classList.remove('dimmed');
+  }
+  document.addEventListener('click', function(e){
+    if(document.querySelector('.rq-item.open') && !e.target.closest('.research-block')){
+      closeAll();
+    }
+  });
+  function toggle(trigger){
+    var arrow=trigger.querySelector('.rq-arrow');
+    var item=trigger.parentElement;
+    var body=trigger.nextElementSibling;
+    var isOpen=body.classList.contains('open');
+    document.querySelectorAll('.rq-body.open').forEach(function(b){b.classList.remove('open');});
+    document.querySelectorAll('.rq-arrow.open').forEach(function(a){a.classList.remove('open');});
+    document.querySelectorAll('.rq-item.open').forEach(function(i){i.classList.remove('open');});
+    var bio=document.getElementById('bio');
+    var updates=document.getElementById('updates');
+    var highlights=document.getElementById('highlights');
+    if(bio) bio.classList.remove('dimmed');
+    if(updates) updates.classList.remove('dimmed');
+    if(highlights) highlights.classList.remove('dimmed');
+    if(!isOpen){
+      body.classList.add('open');
+      arrow.classList.add('open');
+      item.classList.add('open');
+      if(bio) bio.classList.add('dimmed');
+      if(updates) updates.classList.add('dimmed');
+      if(highlights) highlights.classList.add('dimmed');
+    }
+  }
+  </script>
+</body>
 </html>
