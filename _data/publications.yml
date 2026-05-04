@@ -19,8 +19,8 @@
   authors: "M. Adnan, R. Jain, E. Sharma, R.G. Krishnan, Y. Ioannou"
   venue: "International Conference on Machine Learning (ICML 2025)"
   links:
-    - label: Paper
-      url: "#"
+    - label: arXiv
+      url: "https://arxiv.org/abs/2505.05143"
 
 - year: 2025
   title: "Understanding Normalization Layers for Sparse Training"
@@ -44,23 +44,23 @@
   venue: "ICLR 2025 Workshop"
   links:
     - label: Workshop
-      url: "#"
+      url: "https://sparsellms.org/"
 
 - year: 2024
   title: "Detecting Shortcuts using Mutual Information"
   authors: "M. Adnan, Y. Ioannou, K. Tsai, A. Galloway, H. Tizhoosh, R.G. Krishnan et al."
   venue: "2024"
   links:
-    - label: Paper
-      url: "#"
+    - label: arXiv
+      url: "https://arxiv.org/abs/2206.13034"
 
 - year: 2024
   title: "Structured Model Pruning for Efficient Inference in Computational Pathology"
   authors: "M. Adnan, Q. Ba, N. Shaikh, S. Kalra, S. Mukherjee, A. Lorsakul"
   venue: "MICCAI Workshop on Medical Optical Imaging and Virtual Microscopy (2024)"
   links:
-    - label: Paper
-      url: "#"
+    - label: arXiv
+      url: "https://arxiv.org/abs/2404.08831"
 
 - year: 2024
   title: "Long-Tail Learning with Language Model Guided Curricula"
@@ -84,44 +84,44 @@
   venue: "Scientific Reports (2022)"
   links:
     - label: Paper
-      url: "#"
+      url: "https://www.nature.com/articles/s41598-022-05539-7"
 
 - year: 2021
   title: "Fine-Tuning and Training of DenseNet for Histopathology Image Representation using TCGA Diagnostic Slides"
   authors: "A. Riasatian, M. Babaie, D. Maleki, S. Kalra, M. Adnan et al."
   venue: "Medical Image Analysis (2021)"
   links:
-    - label: Paper
-      url: "#"
+    - label: arXiv
+      url: "https://arxiv.org/abs/2101.07903"
 
 - year: 2021
   title: "Pay Attention with Focus: A Novel Learning Scheme for Classification of Whole Slide Images"
   authors: "S. Kalra, M. Adnan, S. Hemati et al."
   venue: "MICCAI 2021"
   links:
-    - label: Paper
-      url: "#"
+    - label: arXiv
+      url: "https://arxiv.org/abs/2106.06623"
 
 - year: 2021
   title: "Domain-Agnostic Clustering with Self-Distillation"
   authors: "M. Adnan, Y.A. Ioannou, C.Y. Tsai, G.W. Taylor"
   venue: "NeurIPS 2021 Workshop: Self-Supervised Learning — Theory and Practice"
   links:
-    - label: Paper
-      url: "#"
+    - label: arXiv
+      url: "https://arxiv.org/abs/2111.12170"
 
 - year: 2020
   title: "Representation Learning of Histopathology Images using Graph Neural Networks"
   authors: "M. Adnan, S. Kalra, H.R. Tizhoosh"
   venue: "CVPR Workshop 2020"
   links:
-    - label: Paper
-      url: "#"
+    - label: arXiv
+      url: "https://arxiv.org/abs/2004.07399"
 
 - year: 2020
   title: "Learning Permutation Invariant Representations using Memory Networks"
   authors: "S. Kalra, M. Adnan, G. Taylor, H. Tizhoosh"
   venue: "European Conference on Computer Vision (ECCV 2020)"
   links:
-    - label: Paper
-      url: "#"
+    - label: arXiv
+      url: "https://arxiv.org/abs/1911.07984"
