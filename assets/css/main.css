@@ -101,7 +101,7 @@ nav {
 .rq-arrow {
   width: 14px; height: 14px;
   flex-shrink: 0;
-  color: #ccc;
+  color: #999;
   transition: transform .2s, color .2s;
 }
 .rq-arrow.open { transform: rotate(90deg); color: #0d1b4b; }
@@ -142,10 +142,8 @@ nav {
   display: flex;
   gap: 12px;
   padding: 7px 0;
-  border-bottom: 0.5px solid #e8e8e8;
   align-items: baseline;
 }
-.update-row:last-child { border-bottom: none; }
 .upd-date {
   font-size: 15px;
   font-weight: 300;
@@ -254,9 +252,13 @@ nav {
 
 @media (max-width: 600px) {
   .body { grid-template-columns: 1fr; }
-  .sidebar { flex-direction: row; align-items: flex-start; gap: 16px; flex-wrap: wrap; }
+  .sidebar { flex-direction: column; align-items: center; order: -1; }
+  .profile-photo { width: 100px; }
+  .profile-name { font-size: 18px; white-space: nowrap; margin-top: 8px; }
+  .profile-address { width: auto; text-align: center; }
   .page-wrap { margin: 0; }
   nav { padding: 0 16px; }
+  .nav-name { white-space: nowrap; font-size: 17px; }
   .body { padding: 24px 16px; }
   .footer { padding: 12px 16px; }
 }

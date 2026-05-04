@@ -1,4 +1,4 @@
-- question: "Can we train neural networks to be sparse from the start, without sacrificing performance?"
+- question: "What does it mean to align or match two neural networks, and when is such an alignment even possible?"
   answer: "Most pruning methods discard weights after training — but this wastes compute. I study whether sparsity can be imposed during training itself, and what mathematical conditions make this work without degrading accuracy."
 
 - question: "What does the loss landscape look like for sparse and overparameterized networks?"

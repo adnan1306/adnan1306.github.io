@@ -25,7 +25,7 @@ permalink: /
     </div>
 
     <div class="research-block">
-      <div class="section-label">Research Interests</div>
+      <div class="section-label">Current Research Threads</div>
       {% for rq in site.data.research %}
       <div class="rq-item">
         <div class="rq-trigger" onclick="toggle(this)">
