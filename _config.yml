@@ -25,6 +25,11 @@ nav:
   - label: Misc.
     url: /misc/
 
+analytics:
+  provider: "google-universal"
+  google:
+    tracking_id: "G-29FR5X4STZ"
+
 markdown: kramdown
 permalink: pretty
 exclude:
